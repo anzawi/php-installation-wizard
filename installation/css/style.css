@@ -1,0 +1,56 @@
+html {
+    background-color: #333;
+}
+body {
+    width: 98%;
+    margin: 10px auto;
+}
+p, h2, td, th span, label, .content a {
+    font-family: cursive;
+    font-weight: 600;
+}
+.badge-success {
+    background-color: #468847;
+}
+.badge-danger {
+    background-color: #b94a48;
+}
+.alert-info {
+    padding: 5px;
+}
+
+.content {
+    margin-top: 100px;
+    border-left: 1px dashed #d5d5d5;
+}
+.content table {
+    margin-left: 10px;
+    border-bottom: 1px dashed #d5d5d5;
+}
+.content a {
+    float: right;
+    margin-right: 10px;
+}
+
+.footer {
+    margin-top: 100px;
+    padding-bottom: 70px;
+}
+.footer p {
+    text-align: center;
+    width: 100%;
+    padding-top: 40px;
+}
+
+.small {
+    font-size: 10px;
+}
+
+input[type = 'submit'] {
+    float: right;
+    margin-right: 10px;
+}
+
+.error {
+    padding: 2px;
+}
