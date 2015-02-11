@@ -1,4 +1,6 @@
-#PHP Installation Wizard Tool that allows you create installation wizard to your  script such as WordPress and Joomla and other scripts.
+#PHP Installation Wizard 
+
+Tool that allows you create installation wizard to your  script such as WordPress and Joomla and other scripts.
 
 ---
 ##All files are documented.
