@@ -8,4 +8,4 @@ customize it as you like.
 If you encounter any problem. contact with me on m_anzawi2010@yahoo.com
 or visit my website on www.t3lam.net.
 
-thank you
+to see moreinformation and screenshot -> http://t3lam.net/%D8%A7%D8%AF%D8%A7%D8%A9-php-installation-wizard/
